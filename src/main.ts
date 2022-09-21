@@ -11,7 +11,7 @@ import App from './App.vue';
 // }
 
 // console.info(name);
-// const name = "";
+// const name = '';
 // const name = '';
 
 createApp(App).mount('#app');
